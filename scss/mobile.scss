@@ -1,0 +1,7 @@
+@media (max-width: 768px) {
+    .container-header,
+    #general,
+    .container-footer {
+        flex-direction: column;
+    }
+}
